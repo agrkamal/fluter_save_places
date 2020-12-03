@@ -11,9 +11,7 @@ you have to use your GOOGLE_API_KEY (In Locaton_helper.dart file))for using Goog
 
   
 
-<img src="Screenshot/WhatsApp%20Image%202020-12-03%20at%2011.19.36%20(2).jpeg" width=200>                                         <img src="https://raw.githubusercontent.com/agrkamal/fluter_save_places/master/Screenshot/WhatsApp%20Image%202020-12-03%20at%2011.19.36.jpeg" width=200>
-
-<img src="Screenshot/WhatsApp%20Image%202020-12-03%20at%2011.31.09.jpeg" width=200>                                             <img src="Screenshot/WhatsApp%20Image%202020-12-03%20at%2011.19.36%20(1).jpeg" width=200>
+<img src="Screenshot/WhatsApp%20Image%202020-12-03%20at%2011.19.36%20(2).jpeg" width=200>  <img src="https://raw.githubusercontent.com/agrkamal/fluter_save_places/master/Screenshot/WhatsApp%20Image%202020-12-03%20at%2011.19.36.jpeg" width=200>    <img src="Screenshot/WhatsApp%20Image%202020-12-03%20at%2011.31.09.jpeg" width=200>     <img src="Screenshot/WhatsApp%20Image%202020-12-03%20at%2011.19.36%20(1).jpeg" width=200>
 
 ## Getting Started
 
