@@ -1,6 +1,12 @@
 # Great_Places
 
-A new Flutter project.
+In this project you can save places with location and image.
+
+Database used in this project is SQLite to store data offline.
+
+Google Maps is used to picking location and for image (image picker) and camera plugins are used.
+
+you have to use your GOOGLE_API_KEY (In Locaton_helper.dart file))for using Google Map Services.
 
 ## Getting Started
 
